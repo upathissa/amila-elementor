@@ -1,0 +1,15 @@
+{
+    "name": "root/amila-elementor",
+    "autoload": {
+        "psr-4": {
+            "Elementor_Test_Addon\\": "inc/"
+        }
+    },
+    "authors": [
+        {
+            "name": "upathissa",
+            "email": "amilaupathissa@gmail.com"
+        }
+    ],
+    "require": {}
+}
